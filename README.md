@@ -26,17 +26,20 @@ First step
 Vehicle Modeling
 
 Quarter car
+
 The EV-TEC is modeled in a quarter car of 2 DOF with its original passive suspension. A sprung mass M_2, a Tire represented with M_1 and K_1 and the suspension represented by a spring K_2 and damper C_2.
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/d7230f71-b917-4897-be0e-2e1cbe3bb201)
 
 
 Performance indexes and road profile
+
 A quarter car is used to obtain the State space matrix to model the vehicle. The road modeling is created to represent road profiles. The four outputs are used to obtain three performance indexes: Avg Power, Road Handling, and Weighted acceleration.
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/bf35b93e-d5b6-49d9-9066-24a78b19adc3)
 
 
 
 Simulations
+
 Simulations are performed in Simulink where c_2 is varying and the road condition was synthetized as Road class C (average) For the three performance indexes.
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/6827501c-a25a-46b8-aff3-701112ae2829)
 
