@@ -32,9 +32,12 @@ The EV-TEC is modeled in a quarter car of 2 DOF with its original passive suspen
 
 Performance indexes and road profile
 A quarter car is used to obtain the State space matrix to model the vehicle. The road modeling is created to represent road profiles. The four outputs are used to obtain three performance indexes: Avg Power, Road Handling, and Weighted acceleration.
-![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/40cfa635-a57a-41fd-b70b-690d60898986)
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/bf35b93e-d5b6-49d9-9066-24a78b19adc3)
+
 
 
 Simulations
 Simulations are performed in Simulink where c_2 is varying and the road condition was synthetized as Road class C (average) For the three performance indexes.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/6827501c-a25a-46b8-aff3-701112ae2829)
+
 
