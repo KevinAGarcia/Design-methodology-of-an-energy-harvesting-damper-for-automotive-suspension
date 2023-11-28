@@ -44,3 +44,21 @@ Simulations are performed in Simulink where c_2 is varying and the road conditio
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/6827501c-a25a-46b8-aff3-701112ae2829)
 
 
+Second step
+Active strategies
+
+Reason for using active strategies
+Active suspensions have a quicker response of milliseconds and if they are regenerative active suspensions, they have a demand in energy that is lower than a regular fully active which makes them more attractive than other types of suspension systems. 
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/930f9427-e10f-4930-a9ad-0f99d4b26139)
+
+
+Quarter car with actuator
+The quarter car has an actuator Fa, and this actuator works with 2 equations; Groundhook for better handling 𝑐_𝑔 and  and Skyhook for comfort 𝑐_𝑠𝑘𝑦.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/2245e6aa-9459-4c1c-a65d-7c2f51d06b10)
+
+
+Simulations
+The comparative chart demonstrates the values while varying the 𝑐_𝑠𝑘𝑦,𝑐_𝑔 for the three performance indexes; Average Power, Road handling, and Weighted acceleration.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/cd55fff3-f7e5-4577-8665-3d6dc58bdc01)
+
+
