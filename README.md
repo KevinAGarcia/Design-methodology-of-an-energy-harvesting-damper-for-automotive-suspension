@@ -61,4 +61,31 @@ Simulations
 The comparative chart demonstrates the values while varying the 𝑐_𝑠𝑘𝑦,𝑐_𝑔 for the three performance indexes; Average Power, Road handling, and Weighted acceleration.
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/cd55fff3-f7e5-4577-8665-3d6dc58bdc01)
 
+Third step
+Design Methodology
+
+Position for the cycloid drive and electric motor
+
+Cycloid drive and electric motor position are selected based on torque. Position1 has lower torque which means less volume for the regenerative elements and therefore not much interference with the vehicle dynamics.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/147135c4-3388-440c-b62f-8624e653d524)
+
+
+Cycloid Drive and Electric Motor Design
+
+The cycloid drive and electric motor will work together the cycloid drive is attached to position 1 in the upper control arm bush and it gets the high torque as input from the vertical oscillations, and it has a high-speed output. The electric motor is coupled to the cycloid drive and uses its high-speed output of it to move the rotor and generate electricity.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/ab77833c-a072-4297-a005-c7c435690bf5)
+
+
+Optimization for the Cycloid drive and Electric motor
+
+An optimization is performed with PSO (Particle Swarm Optimization) For the components to have the same radius and with an electric motor to produce as much electricity as possible.
+![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/34305cca-5234-4995-a9f9-fe7d00ababae)
+
+Fourth step
+Validation 
+
+Cycloid drive and electric motor with Skyhook and Groundhook configuration
+Can be concluded that the results from the Skyhook and Groundhook configurations do not vary much, there is a slight difference with the validation getting higher values. At this point can be concluded that is feasible for the cycloid regenerative shock absorber to replace a regular shock absorber.
+
+
 
