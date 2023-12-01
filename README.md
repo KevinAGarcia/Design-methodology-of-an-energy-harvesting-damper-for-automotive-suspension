@@ -88,3 +88,7 @@ Cycloid drive and electric motor with Skyhook and Groundhook configuration
 Can be concluded that the results from the Skyhook and Groundhook configurations do not vary much, there is a slight difference with the validation getting higher values. At this point can be concluded that is feasible for the cycloid regenerative shock absorber to replace a regular shock absorber.
 
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/ea7ce73e-23b9-4c3e-ab71-b28142366491)
+
+
+The operation of the device is :
+https://drive.google.com/file/d/1Eo8U6kfp-5LU_z6czNknZcnQ3QRk4MkI/view
