@@ -90,6 +90,6 @@ Can be concluded that the results from the Skyhook and Groundhook configurations
 ![image](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/ea7ce73e-23b9-4c3e-ab71-b28142366491)
 
 
-The operation of the device is :
+The operation of the device is  :
 ![ezgif com-video-to-gif](https://github.com/KevinAGarcia/Design-methodology-of-an-energy-harvesting-damper-for-automotive-suspension/assets/113644566/5d8d3f90-a189-4928-807b-8429c1a4ea39)
 
